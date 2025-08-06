@@ -1,0 +1,2 @@
+Back: uvicorn BoardingSystem_Streamlit.BoardingSystem_Back: --reload
+Front:streamlit run BoardingSystem_Front.py
